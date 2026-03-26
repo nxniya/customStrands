@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Strand-y</string>
+    <string name="streak_format">🔥 Streak: %1$d</string>
+    <string name="load_csv">Load CSV</string>
+    <string name="failed_load_csv">Failed to load CSV</string>
+    <string name="no_valid_words">No valid words found</string>
+    <string name="board_relaxed">Board generated with relaxed rules</string>
+    <string name="failed_gen_board">Failed to generate board, try loading different words</string>
+    <string name="found_word">Found word!</string>
+    <string name="board_cleared">Board cleared!</string>
+    <string name="streak_message">🔥 %1$d boards cleared! Streak!</string>
+</resources>
